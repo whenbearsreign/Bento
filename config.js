@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Robin & Theta',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: true,
 
 	// Greetings
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'coffee',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'OneNote',
+					link: 'https://www.onenote.com/notebooks?wdorigin=+ondchrd&auth=1&nf=1&fromAR=1',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Clock-In!',
+					link: 'https://etime.elgin.edu/workforce/Dashboard.do?csrfToken=1A1634950681730A1090906167&action=start',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'SysAid',
+					link: 'https://elgin.sysaidit.com/HelpDesk.jsp?fromId=List',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'JAMF Dashboard',
+					link: 'https://casperjss9:8443/index.html',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'PluralSight',
+					link: 'https://app.pluralsight.com/library/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Tech Mail',
+					link: 'https://webmail.elgin.edu/owa/#path=/mail',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Microsoft Office',
+					link: 'https://www.office.com/?home=1&auth=2',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'accessECC Portal',
+					link: 'https://portal.elgin.edu/employee/Pages/default.aspx',
 				},
 			],
 		},
