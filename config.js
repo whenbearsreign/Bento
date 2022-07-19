@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Robin & Theta',
+	name: 'Joe',
 	imageBackground: false,
 	openInNewTab: false,
 	twelveHourFormat: true,
@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Messages',
+			icon: 'message-square',
+			link: 'https://messages.google.com/web/',
 		},
 		{
 			id: '2',
@@ -71,15 +71,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Code',
-			icon: 'code',
-			link: 'https://code.hirob.in/',
+			name: 'Plex',
+			icon: 'clapperboard',
+			link: 'https://app.plex.tv/desktop',
 		},
 		{
 			id: '5',
-			name: 'Mastodon',
-			icon: 'smile',
-			link: 'https://mastodon.lol/web/home',
+			name: 'D&D Beyond',
+			icon: 'dices',
+			link: 'https://www.dndbeyond.com',
 		},
 		{
 			id: '6',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'OneNote',
-					link: 'https://www.onenote.com/notebooks?wdorigin=+ondchrd&auth=1&nf=1&fromAR=1',
+					name: 'Lodestone',
+					link: 'https://na.finalfantasyxiv.com/lodestone/',
 				},
 				{
-					name: 'Clock-In!',
-					link: 'https://etime.elgin.edu/workforce/Dashboard.do?csrfToken=1A1634950681730A1090906167&action=start',
+					name: 'The Forge',
+					link: 'https://forge-vtt.com/',
 				},
 				{
-					name: 'SysAid',
-					link: 'https://elgin.sysaidit.com/HelpDesk.jsp?fromId=List',
+					name: 'UniFi',
+					link: 'https://unifi.ui.com/dashboard',
 				},
 				{
-					name: 'JAMF Dashboard',
-					link: 'https://casperjss9:8443/index.html',
+					name: 'PocketCasts',
+					link: 'https://play.pocketcasts.com/podcasts',
 				},
 			],
 		},
