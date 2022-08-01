@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Gmail',
 			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/1/#inbox',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
